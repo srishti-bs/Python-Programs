@@ -2,7 +2,4 @@
 Exploring and Learning Python 
 
 
-
-
-
-..
+...
